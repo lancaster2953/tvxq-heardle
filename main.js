@@ -1,5 +1,5 @@
 var app = (function () {
-  var artist = 'Wangchuan';
+  var artist = 'TVXQ';
   var twitter = 'lanca_eyou'
   var startDate = "2025-06-05"
     const Cn = ue([
@@ -4677,7 +4677,7 @@ var app = (function () {
             "\n\n" +
             t +
             "\n\n" 
-            // + "https://wangchuan-heardle.glitch.me/"
+            // + "https://tvxq-heardle.glitch.me/"
           if (
             !navigator.share ||
             !/Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(
